@@ -1,0 +1,6 @@
+﻿https://github.com/RandomInternetPreson/Lucid_Autonomy,Lucid Autonomy,7683,moveTo,moveRel,click,doubleClick,tripleClick,rightClick,middleClick,dragTo,dragRel,scroll,typewrite,press,keyDown,keyUp,hotkey,screenshot,locateOnScreen,locateCenterOnScreen,locateAllOnScreen,center,size,position,onScreen,confirm,prompt,password,alert,pixel
+https://github.com/richardyc/Chrome-GPT,Chrome GPT ,4244,langchain.goto,langchain.click,langchain.find_form,langchain.fill_form,langchain.scroll,langchain.google_search,,,,,,,,,,,,,,,,,,,,,,
+https://github.com/shreesha345/AI-short-creator,AI Short Creator,10656,VideoFileClip.resize,VideoFileClip.get_frame,VideoFileClip.subclip,cv2.cvtColor,cv2.cvtColor,,,,,,,,,,,,,,,,,,,,,,,
+https://github.com/aju22/DocumentGPT,DocumentGPT,1167,aiohttp("serpapi.com/search"),lagnchain.arxiv,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://github.com/bdambrosio/llmsearch,LLMSearch,2343,requests("googleapis.com/customsearch/image"),requests("googleapis.com/customsearch/&num=10"),,,,,,,,,,,,,,,,,,,,,,,,,,
+https://github.com/bhancockio/automate-youtube-with-crewai,Automate Youtube,6017,requests("www.googleapis.com/youtube/v3/videos"),requests("https://www.googleapis.com/youtube/v3/search"),langchain.humantool,,,,,,,,,,,,,,,,,,,,,,,,,
